@@ -19,6 +19,7 @@ function Count() {
 
   return (
     <div>
+      <h3>このコンポーネントにuseEffectがかかっています</h3>
       <h1>Count: {count}</h1>
     </div>
   );
